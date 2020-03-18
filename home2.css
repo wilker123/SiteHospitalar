@@ -1,0 +1,72 @@
+.header-site{
+	background-image: url(images/img.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #ffffff;
+	padding-top: 400px;
+	padding-bottom: 100px; 
+	height: 600px;
+}
+#adiq{
+	position: relative;
+	top: -200px;
+	margin-left: 50px;
+	background-color: #0080FF;
+	border: none;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	border-radius: 3px
+}
+#adiq:hover{
+	color: #0080FF;
+	background-color: white;
+	
+}
+#div2{
+	border: 3px solid #0080FF;
+	border-radius: 50px;
+	width: 1000px;
+	margin: auto;
+}
+#saiba{
+	background-color: #2ECCFA;
+	border: none;
+	width: 100px;
+	border-radius: 3px; 
+
+}
+.img{
+	background-image: url(images/ste.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 300px;
+	padding-bottom: 300px;
+	color: #ffffff;
+	
+}
+#fundo{
+	background-image: url(images/bib.png);
+}
+
+#bloco{
+	border: 3px solid #BDBDBD;
+	width: 270px;
+	height: 230px;
+	border-radius: 16px;
+	margin-left: 200px;
+}
+footer{
+	background-image: url(images/foot.jpg);
+	background-repeat: no-repeat;
+	height: auto;
+}
+#vitaeimg{
+	margin-left: 100px;
+	position: relative;
+	top: 20px
+}
